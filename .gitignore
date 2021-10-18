@@ -1,2 +1,10 @@
 *~
 *.sw?
+*.o
+*.exe
+tags
+lib-tags
+libs.txt
+bob.csv
+*.ini
+
